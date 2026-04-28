@@ -32,3 +32,11 @@ void orang::setNama(string pNama)
 {
     nama = pNama;
 }
+void siswa::setId(int pId)
+{
+    id - pId;
+}
+int main()
+{
+    orang joko
+}
